@@ -1,3 +1,3 @@
 # test1
 
-this is a notification test
+This is a notification test.
