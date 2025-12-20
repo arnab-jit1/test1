@@ -2,4 +2,4 @@
 
 This is a notification test.
 
-test
+Test.
