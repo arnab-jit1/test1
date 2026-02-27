@@ -2,6 +2,6 @@
 
 This is a notification test.
  
-test
+Test
 
-test 1
+Test 1.
